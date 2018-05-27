@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: "Repo Categories"
 tags: [ASP.NET, TypeScript, JavaScript, Enterprise, Services]
 image:
   feature: typewriter.jpg

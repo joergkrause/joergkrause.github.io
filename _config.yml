@@ -1,7 +1,7 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            Joerg's Repos
+tagline:          Explain all my repos on Github.
+description:      This site explains all my repos on Github and gives hints about how to use them.
+canonical:        https://github.com/joergkrause
 
 # Owner/author information
 owner:
