@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [ASP.NET, TypeScript, JavaScript, Enterprise, Services]
 image:
   feature: typewriter.jpg
 ---
