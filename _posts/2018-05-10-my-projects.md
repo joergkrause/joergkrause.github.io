@@ -23,11 +23,11 @@ An editor component based on MSHTML and a .NET wrapper. For WinForms only.
 
 #### svogv
 
-A clever decorator approach for Angular projects. From Angular 4 onwards. Currently on Angular 5.2.
+A clever decorator approach for automating forms creation in Angular projects. From Angular 4 onwards. Currently on Angular 6 (Angular 7 in beta).
 
 #### texxtoor
 
-A book publishing platform. Unfortunately, I failed to get this company up and running well.
+A book publishing platform, made with some friends. I was the leas dev. Unfortunately, we didn't get this company up and running.
 
 ### How to Use
 
